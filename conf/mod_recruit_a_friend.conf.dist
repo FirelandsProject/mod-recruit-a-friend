@@ -1,0 +1,26 @@
+#
+# Copyright (C) 2023+ Firelands Core Project , released under AGPL v3 license: https://github.com/FirelandsProject/firelands-cata/blob/master/LICENSE
+#
+
+[worldserver]
+
+########################################
+# Recruit a Friend Mod configuration
+########################################
+#
+#    RAF.Enabled
+#        Description: Enable Recruit a friend Mod and print message to show the mod status.
+#        Default:     1 - Enabled
+#                     0 - Disabled
+#
+
+RAF.Enabled = 1
+
+#
+#    RAF.ShowMessage
+#        Description: Enable log message to show that module is enabled.
+#        Default:     1 - Enabled
+#                     0 - Disabled
+#
+
+RAF.ShowMessage = 1
